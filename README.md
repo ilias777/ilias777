@@ -3,7 +3,7 @@
 <hr>
 
 ## About Me:
-I am a passionate software and web developerx
+I am a passionate software and web developer
 
 
 ## Socials:
