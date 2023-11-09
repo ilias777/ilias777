@@ -31,11 +31,11 @@ I am a passionate software and web developer
 #### Design:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Languages Stats:
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias777&theme=tokyonight)
-
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilias777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Languages Stats:
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias777&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ilias777&icon=5&color=0)](https://visitcount.itsvg.in)
