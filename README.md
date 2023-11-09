@@ -1,5 +1,5 @@
 # 💫 About Me:
-Build webapplications with VueJS
+I am a passionate software and web developer
 
 
 ## 🌐 Socials:
