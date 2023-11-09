@@ -37,7 +37,9 @@ I am a passionate software and web developer
 ## Languages Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias777&theme=tokyonight)
 
+<!--
 [![Ilias github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilias777&theme=tokyo-night)](https://github.com/ilias777/github-readme-activity-graph)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ilias777&icon=5&color=0)](https://visitcount.itsvg.in)
