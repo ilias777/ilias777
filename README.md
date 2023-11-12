@@ -35,7 +35,7 @@ I am a passionate software and web developer
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilias777&theme=onedark&margin-w=4)](https://github.com/ilias777/github-profile-trophy)
 
 ## Languages Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias777&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias777&hide=html&theme=tokyonight)
 
 <!--
 [![Ilias github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilias777&theme=tokyo-night)](https://github.com/ilias777/github-readme-activity-graph)
